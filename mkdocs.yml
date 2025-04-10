@@ -1,5 +1,5 @@
 site_name: Lone Star Ride Documentation
-site_url: https://chocolate-manor.github.io/LoneStarRideDocumentation/
+site_url: https://chocolate-manor.github.io/LoneStarRideDocumentation//home/
 nav:
   - Home: home.md
   - Shared: shared.md
@@ -26,14 +26,14 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode
       primary: black
-      accent: purple 
-    - scheme: slate 
+      accent: purple
+    - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
+        name: Switch to light mode
       primary: black
       accent: lime
 
