@@ -1,2 +1,2 @@
 # link
-https://howchen217.github.io/liondancerDocumentation/home/
+https://chocolate-manor.github.io/LoneStarRideDocumentation/
