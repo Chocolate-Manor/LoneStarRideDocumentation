@@ -1,1 +1,0 @@
-producer can regularly create anonymous polls to check the confidence of each member, whether they think they can complete the current tasks. Easier for feedback. 

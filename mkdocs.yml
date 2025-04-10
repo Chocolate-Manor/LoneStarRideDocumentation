@@ -1,9 +1,9 @@
-site_name: Carnivore Studio
+site_name: Lone Star Ride Documentation
 site_url: https://howchen217.github.io/liondancerDocumentation/
 nav:
   - Home: home.md
-  - Code of Conduct: codeofconduct.md
-  - Producer: producer.md
+  - Shared: shared.md
+  - Admin: admin.md
   - Artist: artist.md
   - Designer: designer.md
   - Programmer: programmer.md

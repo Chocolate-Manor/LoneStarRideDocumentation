@@ -1,6 +1,4 @@
-# Welcome to Carnivore Studio
+# Welcome to Chocolate Manor
 
 ## How to use the documentation
-This documentation is divided by __roles__. Check your role-specific tab for guidelines. For example, if you are artist, go to artist tab to check which guidelines apply to you. 
-
-There are also shared guidelines, for example rules for using version control. Those you can find in the __Code of Conduct__ Page. 
+This documentation has guidelines divided by __roles__. Check your role-specific tab for your guidelines. For example, if you are artist, go to artist tab to check which guidelines apply to you.
