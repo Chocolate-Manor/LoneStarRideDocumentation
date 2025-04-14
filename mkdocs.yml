@@ -1,5 +1,5 @@
 site_name: Lone Star Ride Documentation
-site_url: https://chocolate-manor.github.io/LoneStarRideDocumentation//home/
+site_url: https://chocolate-manor.github.io/LoneStarRideDocumentation/home/
 nav:
   - Home: home.md
   - Shared: shared.md
